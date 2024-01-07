@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yjoh8892
 - 👀 I’m interested in photograph.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Python and Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
