@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yjoh8892
 - 👀 I’m interested in photograph.
 - 🌱 I’m currently learning Python and Java.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on IT company.
 - 📫 How to reach me ...
 yjoh8892@gmail.com
 <!---
