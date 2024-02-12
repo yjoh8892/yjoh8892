@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yjoh8892
+- 👋 Hi, I’m Yoo Jin Oh @yjoh8892
 - 👀 I’m interested in photograph.
 - 🌱 I’m currently learning Python and Java.
 - 💞️ I’m looking to collaborate on IT company.
